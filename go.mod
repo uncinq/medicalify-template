@@ -8,7 +8,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-admin v1.0.0-rc.18 // indirect
-	github.com/hugolify/hugolify-theme v1.27.7 // indirect
+	github.com/hugolify/hugolify-theme v1.27.8 // indirect
 	github.com/hugolify/hugolify-theme-expertises v1.1.3 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.3.26 // indirect
 	github.com/hugolify/hugolify-theme-persons-expertises v1.0.6 // indirect
@@ -18,6 +18,6 @@ require (
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
-	github.com/uncinq/medicalify-example-site v0.0.0-20260309151359-b85afd103358 // indirect
-	github.com/uncinq/medicalify-theme v0.0.0-20260309152153-35b7c8cb62db // indirect
+	github.com/uncinq/medicalify-example-site v0.0.0-20260309160807-6d4a97d9de3e // indirect
+	github.com/uncinq/medicalify-theme v0.0.0-20260309160943-3020b871b9c3 // indirect
 )
