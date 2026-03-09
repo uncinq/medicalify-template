@@ -1,9 +1,7 @@
-# Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
-
 imports:
   # Specific Medicalify
-  - path: github.com/hugolify/medicalify-example-site
-  - path: github.com/hugolify/medicalify-theme
+  - path: github.com/uncinq/medicalify-example-site
+  - path: github.com/uncinq/medicalify-theme
 
   # For exampleSite
   - path: github.com/hugolify/hugolify-theme-expertises
