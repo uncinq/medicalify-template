@@ -7,6 +7,7 @@ build:
   writeStats: true
 enableRobotsTXT: true
 imaging:
+  anchor: Smart
   quality: 75
 markup:
   tableOfContents:

@@ -28,7 +28,7 @@ github.com/twbs/bootstrap v5.3.8+incompatible h1:eK1fsXP7R/FWFt+sSNmmvUH9usPocf2
 github.com/twbs/bootstrap v5.3.8+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.13.1 h1:6bmNXvoeIbvjFWjfbjXg5JGbelLD1haIsMaEIzE9UZI=
 github.com/twbs/icons v1.13.1/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
-github.com/uncinq/medicalify-example-site v0.0.0-20260217132135-a24cb752979d h1:/WB1s0ASPr4jHqg4k90NJLSDZGXQc7l8JBMEUeUNUMg=
-github.com/uncinq/medicalify-example-site v0.0.0-20260217132135-a24cb752979d/go.mod h1:o2rgWBZgCbhBvlLLjQBVqab0vH7+kNH2mLqZQEDt1dI=
-github.com/uncinq/medicalify-theme v0.0.0-20260217134547-08ee82d9710c h1:PC9Z9paU25kvnIj+JQmE0ERj1Y0goI9h0u49Yr64V5A=
-github.com/uncinq/medicalify-theme v0.0.0-20260217134547-08ee82d9710c/go.mod h1:84oJrC2s2gojLcDIpVN8WynVrQRFfd0Q9t0bnQ87iXA=
+github.com/uncinq/medicalify-example-site v0.0.0-20260309151359-b85afd103358 h1:ZDaHVyPTDsqeETLycYRPgNwlIBPgl1ynH2iRMdGPZ0c=
+github.com/uncinq/medicalify-example-site v0.0.0-20260309151359-b85afd103358/go.mod h1:o2rgWBZgCbhBvlLLjQBVqab0vH7+kNH2mLqZQEDt1dI=
+github.com/uncinq/medicalify-theme v0.0.0-20260309152153-35b7c8cb62db h1:uR1Y86z97SLusM1sybzrvNPzTReJQt+qqmxMrWW94Kw=
+github.com/uncinq/medicalify-theme v0.0.0-20260309152153-35b7c8cb62db/go.mod h1:84oJrC2s2gojLcDIpVN8WynVrQRFfd0Q9t0bnQ87iXA=

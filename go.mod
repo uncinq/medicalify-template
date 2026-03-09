@@ -18,6 +18,6 @@ require (
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
-	github.com/uncinq/medicalify-example-site v0.0.0-20260217132135-a24cb752979d // indirect
-	github.com/uncinq/medicalify-theme v0.0.0-20260217134547-08ee82d9710c // indirect
+	github.com/uncinq/medicalify-example-site v0.0.0-20260309151359-b85afd103358 // indirect
+	github.com/uncinq/medicalify-theme v0.0.0-20260309152153-35b7c8cb62db // indirect
 )
