@@ -1,3 +1,5 @@
+# Hugolify content available https://www.hugolify.io/docs/sections/
+
 imports:
   # Specific Medicalify
   - path: github.com/uncinq/medicalify-example-site
